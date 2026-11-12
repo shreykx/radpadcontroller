@@ -1,0 +1,1 @@
+**radpad** - radpad is supposed to be a simple hackpad built on the radiation spider theme for [hackclub](hackclub.com) [#fallout](fallout.hackclub.com). the idea is, a macrocontroller that allows you to navigate your computer interface more easily than before. i will be documenting the progress on official fallout slack channel, and everything at source goes here :)
