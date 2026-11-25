@@ -1,0 +1,8 @@
+Sr No.,Item,Qty,Price,Link,Purpose
+1,Seeed Studio XIAO ESP32C3,5,75,https://www.amazon.in/Seeed-Studio-XIAO-ESP32C3-Microcontroller/dp/B0B94JZ2YF/ref=sr_1_3,The main IC
+2,COM-09032,5,30,https://www.mouser.in/en/ProductDetail/SparkFun/COM-09032,Joystick
+3,"Switch Button, Pack of 20",1,1.5,https://www.amazon.in/Tactile-momentry-button-Switch-Button/dp/B07NCZJX3M,Switches
+4,PCB (via JLCPCB) - 5,1,9.54,https://cart.jlcpcb.com/shopcart/cart/,PCB
+5,Soldering Iron Kit,1,5,https://www.amazon.in/Temperature-Controlled-Soldering-Variable-Different/dp/B0FC2YM1RY/ref=sr_1_19,Basic Tools
+6,3D Printing Costs,5,10,https://hackclub.enterprise.slack.com/archives/C083P4FJM46,Case for the RadPad
+,,TOTAL,131.04,,
